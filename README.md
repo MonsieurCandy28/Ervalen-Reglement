@@ -6,11 +6,11 @@ Bienvenue sur Ervalen RP. Merci de respecter les règles suivantes pour garantir
 
 ## 📚 Sommaire
 
-1. 🧱 [Les Bases](regles_bases.md)
-2. 🕵️ [Règlement Illégal](regles_illegal.md)
-3. 🏢 [Règlement Entreprises](regles_entreprises.md)
-4. ⚖️ [Règlement Légal](regles_legal.md)
-5. 🧾 [Code des Sanctions](code_sanctions.md)
+1. 🧱 [Les Bases](bases.md)
+2. 🕵️ [Règlement Illégal](illegal.md)
+3. 🏢 [Règlement Entreprises](entreprises.md)
+4. ⚖️ [Règlement Légal](legal.md)
+5. 🧾 [Code des Sanctions](sanctions.md)
 
 ---
 
