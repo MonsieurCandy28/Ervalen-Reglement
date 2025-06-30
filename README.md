@@ -1,4 +1,4 @@
-# 📜 Règlement Roleplay – Ervalen RP
+Sommaire. # 📜 Règlement Roleplay – Ervalen RP
 
 Bienvenue sur Ervalen RP. Merci de respecter les règles suivantes pour garantir une expérience RP immersive, fluide et agréable pour tous.
 
