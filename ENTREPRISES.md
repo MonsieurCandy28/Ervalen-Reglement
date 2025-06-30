@@ -1,4 +1,4 @@
-# 🏢 Règlement – Entreprises & Emplois
+II. # 🏢 Règlement – Entreprises & Emplois
 
 Le tissu économique de la ville repose sur le sérieux des entreprises et la rigueur de leur gestion. Voici les règles à respecter pour tout employeur ou employé sur Ervalen RP.
 
