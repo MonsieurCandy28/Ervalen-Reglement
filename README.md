@@ -1,6 +1,16 @@
-Sommaire. # 📜 Règlement Roleplay – Ervalen RP
+# 📜 Règlement Roleplay – Ervalen RP
 
 Bienvenue sur Ervalen RP. Merci de respecter les règles suivantes pour garantir une expérience RP immersive, fluide et agréable pour tous.
+
+---
+
+## 📚 Sommaire
+
+1. 🧱 [Les Bases](regles_bases.md)
+2. 🕵️ [Règlement Illégal](regles_illegal.md)
+3. 🏢 [Règlement Entreprises](regles_entreprises.md)
+4. ⚖️ [Règlement Légal](regles_legal.md)
+5. 🧾 [Code des Sanctions](code_sanctions.md)
 
 ---
 
@@ -38,9 +48,25 @@ Bienvenue sur Ervalen RP. Merci de respecter les règles suivantes pour garantir
 
 ---
 
+## ⚖️ 4. Règlement Légal
+
+- Toute activité légale doit se faire **en service**, avec tenue adaptée.
+- LSPD / EMS / Gouvernement : impartialité, respect des règles internes.
+- Aucun mélange entre illégal et légal sans validation staff.
+- Les entreprises privées doivent fonctionner de manière sérieuse.
+- Licenciements et recrutements doivent être **joués RP** et **justifiés**.
+
+---
+
+## 🧾 5. Code des Sanctions
+
+Consultez le fichier [Code des Sanctions](code_sanctions.md) pour connaître les sanctions liées aux infractions (powergaming, metagaming, freekill, etc.).  
+Chaque situation sera analysée par le staff selon le contexte et les antécédents du joueur.
+
+---
+
 ## 🔗 Liens utiles
 
 - 🌐 Site : [https://ervalenroleplay.fr](https://ervalenroleplay.fr)
-- 💬 Discord : discord.gg/ervalenrp
+- 💬 Discord : [discord.gg/ervalenrp](https://discord.gg/ervalenrp)
 - 📌 Pour signaler une scène : utilisez `/report` en jeu ou ouvrez un ticket sur Discord
-
