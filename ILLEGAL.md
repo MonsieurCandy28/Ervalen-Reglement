@@ -1,4 +1,4 @@
-# 🕵️ Règlement – Activités Illégales
+III. # 🕵️ Règlement – Activités Illégales
 
 Le RP illégal fait partie intégrante de la ville d’Ervalen. Il doit être joué avec sérieux, immersion et logique. Toute activité illégale doit suivre des règles strictes pour préserver l’équilibre RP de la ville.
 
