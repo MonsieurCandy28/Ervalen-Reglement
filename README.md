@@ -11,6 +11,8 @@ Bienvenue sur Ervalen RP. Merci de respecter les règles suivantes pour garantir
 3. 🏢 [Règlement Entreprises](ENTREPRISES.md)
 4. ⚖️ [Règlement Légal](LEGAL.md)
 5. 🧾 [Code des Sanctions](SANCTIONS.md)
+6. ©️​ [Conditions d'utilisations](TERMS.md)
+7. ®️​ [Politique de confidentialité](PRIVACY.md)
 
 ---
 
