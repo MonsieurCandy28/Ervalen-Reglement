@@ -60,7 +60,7 @@ Bienvenue sur Ervalen RP. Merci de respecter les règles suivantes pour garantir
 
 ## 🧾 5. Code des Sanctions
 
-Consultez le fichier [Code des Sanctions](code_sanctions.md) pour connaître les sanctions liées aux infractions (powergaming, metagaming, freekill, etc.).  
+Consultez le fichier [Code des Sanctions](SANCTIONS.md) pour connaître les sanctions liées aux infractions (powergaming, metagaming, freekill, etc.).  
 Chaque situation sera analysée par le staff selon le contexte et les antécédents du joueur.
 
 ---
