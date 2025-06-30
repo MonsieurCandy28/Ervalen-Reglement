@@ -1,4 +1,4 @@
-# 🧱 Règlement - Les Bases
+I. # 🧱 Règlement - Les Bases
 
 Bienvenue sur Ervalen RP. Voici les règles fondamentales à respecter par tous les joueurs pour garantir une expérience RP fluide et sérieuse :
 
