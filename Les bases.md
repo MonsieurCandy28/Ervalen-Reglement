@@ -10,57 +10,65 @@ Bienvenue sur Ervalen RP. Voici les règles fondamentales à respecter par tous 
 - **Si une action n'est pas crédible dans la vraie vie, elle ne l'est pas dans le RP non plus.**
 
 
+---
 
-Les grosses insultes ( les origines, la famille ou les morts) peuvent être punies par un BAN temporaire ou définitif.
-Par contre, tout est proportionnel à la gravité des insultes et leur contexte. 
-Vous pouvez avoir un langage fourni lors de scènes RP/HRP encadrées par le staff mais restez dans le raisonnable : 
-Ne faites pas ou ne dites pas ce que vous n’aimeriez pas subir ou vivre IG/IRL (vous ne connaissez pas le vécu de la personne “en face de vous”).
-Il est interdit de faire des scènes de viol, de discriminations raciales ou d’insulter une religion existante (restez dans le respect).
+## 🧠 Règlement Comportemental et Communication
 
-Le serveur offre la possibilité d'échanger tous ensemble, nous vous invitons fortement à rester poli dans ces salons afin de privilégier la bonne humeur.
+- Les **grosses insultes** (les origines, la famille ou les morts) peuvent entraîner un **BAN temporaire ou définitif** selon la gravité et le contexte.
+- Un langage cru est toléré dans certaines scènes encadrées par le staff, mais **restez dans le raisonnable**.
+- Ne faites ou ne dites jamais ce que vous n’aimeriez pas vivre IG/IRL.
+- **Interdiction formelle** de scènes de viol, de discrimination raciale ou religieuse.
 
-Il est interdit :
-de parler de scènes qui se sont mal déroulées ou critiquer le RP du joueurs dans les canaux vocaux du discord de PetitRP. Ces scènes doivent se discuter dans le cadre d’un ticket en présence d’un membre du staff.
-de poster des images ou dessins susceptibles de choquer ou déranger sur le discord. 
-d’avoir un logo susceptible de choquer ou déranger sur discord.
-d’avoir un pseudo en jeu de mot ou un pseudo susceptible de choquer ou déranger sur le discord ou en jeu sans l’autorisation du staff.
+---
 
+## 💬 Communication & Discord
 
+- Le serveur est un espace d’échange. **Restez poli et respectueux dans les salons**.
+- Il est interdit de :
+  - Critiquer le RP d’un joueur dans un vocal Discord. Utilisez les tickets.
+  - Poster des images ou logos choquants.
+  - Avoir un pseudo ou jeu de mot déplacé sans validation staff.
 
-Toutes les pubs pour un autre serveur RP sont TOTALEMENT INTERDITES.
-Tout ce qui se passe en RP ne doit pas avoir de conséquences négatives en hrp, comme des menaces hrp, insultes ou autres.
-Vous ne devez pas vous déconnecter de la ville pour éviter une scène, ni pour éviter une convocation staff sur discord.
-Ne jamais parler HRP en jeu.
-Allez toujours au bout de la scène même si vous pensez qu'elle n’est pas valable. Entre temps vous pouvez rec ou faire une demande de spec par un staff via un #ticket sur discord ou faire un /report in game. Une fois la scène finie, dirigez vous sur discord dans # 👤 - Besoin d'aide?.
-Si vous n’êtes pas d’accord avec une décision de staff, vous pouvez toujours en discuter tout en respectant les personnes.
-Les problèmes de synchronisation prise en compte, vous devez continuer la scène après reconnexion.
-Il est strictement interdit d’utiliser une commande réservée aux membres du staff.
-Si vous voyez ou avez un doute sur du CHEAT, USE BUG ou GLITCH, contactez immédiatement le staff. On est là pour avancer ensemble.
-Vous devez avoir le même nom et prénom sur discord, sur steam, ainsi que sur votre pièce d’identité en ville.
-Vous êtes dans l’obligation d’être connecté sur le discord PetitRP ou sur le votre quand vous êtes en ville.
-Si vous créez un discord pour votre groupe illégal, vous devez en informer un membre du staff et lui donner accès à tout ce qui se rapporte au RP.
-Utiliser tout pack de textures ou autre addon donnant un avantage lors de scènes de fusillades par exemple est interdit.
-Mettez votre densité de PNJ à 0
+- La **publicité pour d'autres serveurs** est strictement interdite.
+- Le HRP en jeu est interdit. Terminez toujours vos scènes, même en cas de désaccord.
 
+- En cas de souci :
+  - **Rec la scène**.
+  - Ouvrir un ticket Discord ou faire `/report`.
+  - Allez dans #👤 - Besoin d'aide? après la scène si besoin.
+  - Continuez une scène après reconnexion (sync bug ou déco).
 
+---
 
-COMMUNICATIONS IN GAME ET HORS FIVEM
-La communication se fait exclusivement par les moyens mis à votre disposition en ville comme le téléphone, les réseaux sociaux ou la radio.
-Vous devez absolument parler InGame, toutes communications faites sur discord pendant une scène seront sanctionnées.
-Vous pouvez envoyer des mails via intranet en écrivant exactement ce qui suit:
-Mail RP de : xxxxx@ervalenrp
-Mail Destinataire :  xxxxx@ervalenrp
-Votre texte suivi du mot RP à la fin, sans ça il ne sera pas pris en compte.
-Sans connaître le mail de votre destinataire vous ne pouvez lui envoyer de message.
-Interdit de se servir du discord pour connaître la profession des gens.
-Il est interdit de mentionner un responsable staff , gérant staff ou modérateur si un haut gradé ne vous l’autorise pas. 
-Privilégiez les salons écrits dédiés comme 👤 - Besoin d'aide? ou 🎫・ticket
-SI C’EST IMPORTANT à la minute, mettez-vous directement dans 👤 - Besoin d'aide?.
+## 🛡️ Règles techniques & sécurité
 
+- **Interdiction d’utiliser des commandes staff** si vous n’êtes pas autorisé.
+- En cas de **cheat, glitch ou bug suspect**, contactez immédiatement un staff.
+- Gardez le **même nom et prénom** sur Discord, Steam et votre pièce d'identité en ville.
+- **Connexion Discord obligatoire** quand vous êtes en ville.
+- Pour tout Discord lié à une faction illégale, **accès staff obligatoire**.
 
-STREAMERS
+- **Interdiction des textures / packs / mods** donnant un avantage en combat.
+- Réglez votre densité de PNJ à 0.
 
-Nous vous demandons IMPÉRATIVEMENT de mettre un CACHE MAP ou caméra pour dissimuler la map afin de ne pas dévoiler des points sensibles. Si vous n’en avez pas, nous pouvons vous en fournir un à l'effigie de notre ville sur Discord.
-Vous pouvez obtenir le grade streamer en faisant une demande sur notre discord. Un Admin étudiera votre demande et surveillera vos directs pour vous valider. Vous pourrez mettre alors votre lien sur notre salon dédié aux lives.
-Pendant votre stream, si vous devez aller dans besoin de staff, n’oubliez pas de couper le son de votre live.
-Si pendant votre stream vous critiquez, insultez le staff ou le serveur, une sanction peut venir vous dire bonjour.
+---
+
+## 🗣️ Communication RP et hors FiveM
+
+- Les contacts se font via :
+  - Téléphone en ville.
+  - Réseaux sociaux RP.
+  - Radio ou mails RP (précisez bien "Mail RP de:" et "RP" en fin de message).
+- **Pas de communication sur Discord en parallèle d’une scène RP**.
+- Interdit d’utiliser Discord pour connaître la profession d’un joueur.
+
+---
+
+## 🎥 Règlement Streamers
+
+- **Cache map obligatoire** pour éviter les fuites de localisation.
+- Un cache officiel est dispo sur Discord.
+- Demande de grade streamer via ticket. Lien autorisé une fois validé.
+- Coupez le son de votre live lors des passages staff.
+- Toute insulte ou critique en live du staff ou serveur = sanction possible.
+
