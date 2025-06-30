@@ -41,6 +41,6 @@ Bienvenue sur Ervalen RP. Merci de respecter les règles suivantes pour garantir
 ## 🔗 Liens utiles
 
 - 🌐 Site : [https://ervalenroleplay.fr](https://ervalenroleplay.fr)
-- 💬 Discord : à compléter
+- 💬 Discord : discord.gg/ervalenrp
 - 📌 Pour signaler une scène : utilisez `/report` en jeu ou ouvrez un ticket sur Discord
 
