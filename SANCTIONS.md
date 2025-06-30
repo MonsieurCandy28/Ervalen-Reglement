@@ -1,32 +1,33 @@
-V. # 🧾 Code des Sanctions – Ervalen RP
+# 🧾 Code des Sanctions – Ervalen RP
 
-Voici la liste des infractions les plus courantes en RP accompagnées de leur statut :
+Voici la liste des infractions les plus courantes, leur statut ainsi que la sanction habituelle appliquée. Le staff se réserve toujours un droit d’appréciation selon le **contexte, la gravité des faits et les antécédents**.
 
-| Infraction         | Description                                                                 | Statut     |
-|--------------------|-----------------------------------------------------------------------------|------------|
-| Powergaming         | Action irréaliste (ex: rouler en Ferrari en montagne)                      | ❌ Interdit |
-| FairPlay            | Comportement juste et respectueux, immersion RP                            | ✅ Obligatoire |
-| Metagaming / Mixe   | Utilisation d'infos HRP en RP (stream, vocal...)                            | ❌ Interdit |
-| No Fear RP          | Ignorer la peur (ex: défier la police seul)                                 | ❌ Interdit |
-| No Pain RP          | Ignorer la douleur de son personnage                                        | ❌ Interdit |
-| Freekill            | Tuer sans raison RP                                                         | ❌ Interdit |
-| Carkill             | Tuer en voiture sans RP                                                     | ❌ Interdit |
-| Spawn Kill          | Tuer à l’apparition                                                         | ❌ Interdit |
-| Rush                | Courir sur quelqu’un en plein gunfight (cas rares acceptés)                | ⚠️ À modérer |
-| Force RP            | Forcer une action RP                                                        | ❌ Interdit |
-| Streamhack          | Utilisation des infos d’un stream                                           | ❌ Interdit |
-| Mass RP             | Jouer comme si tout le monde vous voyait                                   | ✅ Recommandé |
-| Win RP              | Vouloir tout gagner, ignorer l’échec RP                                    | ❌ Interdit |
-| Snake Run           | Zigzaguer pour éviter les balles                                            | ❌ Interdit |
-| Revenge Kill        | Revenir pour se venger après un coma                                        | ❌ Interdit |
-| Bunny Hop RP        | Sauter pour fuir ou esquiver                                                | ❌ Interdit |
-| Cohérence RP        | Jouer selon son histoire/personnalité                                      | ✅ Obligatoire |
-| Freeloot            | Voler une personne sans scène RP                                           | ❌ Interdit |
-| Drive-by            | Tirer en conduisant                                                         | ❌ Interdit |
-| Speed Punch         | Frapper rapidement sans réaction possible                                   | ❌ Interdit |
-| Cop Bait            | Chercher les flics juste pour les poursuites                               | ❌ Interdit |
-| Cheat / Usebug      | Exploit ou triche                                                           | 🚫 BAN immédiat |
+| Infraction          | Description                                                              | Statut       | Sanction (type & durée)                  |
+|---------------------|--------------------------------------------------------------------------|--------------|------------------------------------------|
+| Powergaming         | Action irréaliste (ex: Ferrari en montagne)                              | ❌ Interdit   | ⚠️ Warn ou ⛔ 1-3 jours ban                |
+| FairPlay            | Respect des règles et immersion RP                                       | ✅ Obligatoire| ✅ Attendu - sanction si manquement grave |
+| Metagaming / Mixe   | Infos HRP utilisées en RP (stream, vocal...)                             | ❌ Interdit   | ⛔ 2-5 jours ban                          |
+| No Fear RP          | Ne pas jouer la peur (défier, foncer dans les balles...)                 | ❌ Interdit   | ⚠️ Warn ou ⛔ 1-3 jours ban                |
+| No Pain RP          | Ignorer la douleur RP (aucune réaction à une blessure)                   | ❌ Interdit   | ⚠️ Warn ou ⛔ 1-2 jours ban                |
+| Freekill            | Tuer sans raison RP valable                                              | ❌ Interdit   | ⛔ 3-7 jours ban                          |
+| Carkill             | Tuer avec un véhicule sans raison RP                                     | ❌ Interdit   | ⛔ 2-5 jours ban                          |
+| Spawn Kill          | Tuer un joueur qui vient d’apparaître                                    | ❌ Interdit   | ⛔ 2-4 jours ban                          |
+| Rush                | Courir dans une fusillade (hors logique RP)                              | ⚠️ À modérer  | ⚠️ Warn ou ⛔ 1 jour ban si abusé         |
+| Force RP            | Forcer une action à un joueur sans choix RP                              | ❌ Interdit   | ⚠️ Warn ou ⛔ 2-3 jours ban                |
+| Streamhack          | Utilisation d’un live pour du RP                                         | ❌ Interdit   | ⛔ 3-7 jours ban                          |
+| Mass RP             | RP cohérent selon la foule et les passants                               | ✅ Recommandé | ✅ Aucune – encouragé                     |
+| Win RP              | Ne jamais accepter la défaite RP                                         | ❌ Interdit   | ⚠️ Warn ou ⛔ 1-3 jours ban                |
+| Snake Run           | Zigzag pour esquiver les balles                                           | ❌ Interdit   | ⛔ 1-3 jours ban                          |
+| Revenge Kill        | Revenir se venger après un coma RP                                       | ❌ Interdit   | ⛔ 2-5 jours ban                          |
+| Bunny Hop RP        | Sauter constamment pour fuir / esquiver                                  | ❌ Interdit   | ⛔ 1-2 jours ban                          |
+| Cohérence RP        | Respect du personnage & son background                                   | ✅ Obligatoire| ⚠️ Warn si incohérence répétée            |
+| Freeloot            | Voler sans scène RP (ex: loot de mort RP)                                | ❌ Interdit   | ⛔ 1-3 jours ban                          |
+| Drive-by            | Tirer en conduisant (sauf scène validée)                                 | ❌ Interdit   | ⛔ 2-4 jours ban                          |
+| Speed Punch         | Attaquer sans laisser de réaction                                         | ❌ Interdit   | ⛔ 1-2 jours ban                          |
+| Cop Bait            | Provoquer la police sans réel intérêt RP                                 | ❌ Interdit   | ⚠️ Warn ou ⛔ 1-2 jours ban                |
+| Cheat / Usebug      | Triche ou usage volontaire de bug                                        | 🚫 Bannissement | ❌ BAN permanent (0 tolérance)         |
 
 ---
 
-Chaque sanction est donnée **selon le contexte, la gravité et les antécédents du joueur**. Le staff se réserve le droit d’adapter la sanction en cas de récidive ou comportement jugé dangereux pour l’expérience des autres joueurs.
+🧠 **Note :** Ces durées sont des bases. En cas de récidive, comportement toxique ou triche volontaire, la sanction peut aller jusqu’au **ban définitif**.
+
